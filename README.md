@@ -1,83 +1,10 @@
-# Turay-Logic-
-// TURAY LOGIC 
+About Me - Thaimu Turay
+Hello! My name is Thaimu Turay, and I am a passionate and dedicated individual from Tombo, Sierra Leone. I have a diverse range of interests and skills that allow me to make an impact in several areas, including blogging, business, technology, and community development.
 
-Chatting App Developer 
+I am the founder of Countri Bloggers, a platform where I share news, entertainment, social experiments, and political analysis, both from home and abroad. As a political analysis blogger, I focus on providing insights into the political landscape in Sierra Leone and beyond, with a particular interest in the APC party.
 
- 
-ABOUT ME:
+I am currently studying Business Information Technology (BIT) at the University of Management and Technology (UNIMTECH). My career includes various roles in communication, advocacy, and marketing, and I have also worked as a Typist at Junior and Daughters Printing Press. Additionally, I have a wealth of experience in sales, IT, and customer service.
 
-Hey, My name is Turay Logic! I'm a Freelancer Web Designer and App chatting Developer.
-I have good skills in web design. I can design all kinds of web pages from small to big. If anyone has this kind of work, please hire me.
+In addition to my professional pursuits, I have a deep commitment to social causes. I am working on a project called the Old Age Home in Bailor Community, Tombo, aimed at supporting the elderly. I am also planning to launch an e-commerce platform for local foods and products in Sierra Leone. As a film director and comedian, I’m exploring new ways to entertain and educate my audience.
 
-
-LET'S SOLVE PROBLEMS
-How I Help You Success
-Web Design & Development
-
-Page Speed Optimization
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, sapiente optio exercitationem magnam reiciendis aperiam. Asperiores modi sit laboriosam necessitatibus, vero qui mollitia ullam ipsa quis iusto assumenda fugit voluptatum?
-
-Secure & Using Latest Tools
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, sapiente optio exercitationem magnam reiciendis aperiam. Asperiores modi sit laboriosam necessitatibus, vero qui mollitia ullam ipsa quis iusto assumenda fugit voluptatum?
-
-Responsive Design
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, sapiente optio exercitationem magnam reiciendis aperiam. Asperiores modi sit laboriosam necessitatibus, vero qui mollitia ullam ipsa quis iusto assumenda fugit voluptatum?
-
-Reasonable Cost
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, sapiente optio exercitationem magnam reiciendis aperiam. Asperiores modi sit laboriosam necessitatibus, vero qui mollitia ullam ipsa quis iusto assumenda fugit voluptatum?
-
-SEE MY PACKAGES
-Choose the package that fits your needs
-BASIC
-$200
- 3-Page Website Design
- Responsive Design
- e-Commerce Functionality
- Performance Optimizztion
- Automatic BackUp
- Advanced Security
- 1 Year Plan
-STANDERD
-$350
- 5-Page Website Design
- Responsive Design
- e-Commerce Functionality
- Performance Optimizztion
- Automatic BackUp
- Advanced Security
- 2 Year Plan
-PREMIUM
-$700
- 10-Page Website Design
- Responsive Design
- e-Commerce Functionality
- Performance Optimizztion
- Automatic BackUp
- Advanced Security
- 3 Year Plan
-I have skills
-700
-Five Star Feedback
-
-930
-Finished Projects
-
-1100
-Winning Projects
-
-HTML 95%
-CSS 85%
-Bootstrap4 87%
-SASS 77%
-jQuery 80%
-Javascript 65%
-PSD To HTML 70%
-WordPress 60%
-Full Name*
-Email*
-Phone*
-Message*
- 
-Get In Touch With A Human
-I am happy to talk to you! Just complete the form.
-Copyright © 2021 - Logic - All Rights Reserved
+Outside of my professional life, I enjoy staying connected with my community and have an ongoing interest in the development of Sierra Leone, particularly in areas like technology, youth empowerment, and political change. Through my blog and projects, I hope to contribute to creating a brighter future for my country.
